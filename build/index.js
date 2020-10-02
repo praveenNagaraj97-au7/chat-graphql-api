@@ -1,5 +1,7 @@
 "use strict";
 
+var _regeneratorRuntime = _interopRequireDefault(require("regenerator-runtime"));
+
 var _apolloServer = require("apollo-server");
 
 var _mongoose = require("mongoose");
